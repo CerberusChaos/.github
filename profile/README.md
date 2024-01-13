@@ -18,12 +18,12 @@ Our developer tools feature the newest versions of all required libraries. This 
 
 Join a community dedicated to StarkNet's growth. Our tools and teachings are designed to encourage active participation and contributions, making StarkNet's ecosystem more robust and diverse.
 
-## 🛖 Repos
+## 🧰 Repositories
 
 - [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - Starknet Dapp Template with Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React
 - [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - create-starknet is a tool to quickly start a project from a basic template for popular frameworks.
 
-## 🦦 Find Us
+## 📡 Connect with Us
 
 - Website: https://cerberuschaos.org/
 - Core Developer: [nlyrthiia](https://github.com/nlyrthiia)
