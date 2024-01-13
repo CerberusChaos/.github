@@ -2,7 +2,7 @@
 
 **🛠️ Master Starknet with CerberusChaos: Code Dreams, Build Realities.** Discover more [here](https://cerberuschaos.org).
 
-![CerberusChaos Labs](https://github.com/CerberusChaos/.github/blob/main/profile/asset/1191704883591_.pic.jpg)
+![CerberusChaos Labs](https://github.com/CerberusChaos/.github/blob/main/profile/asset/1191704883591_.png)
 
 #### 💡 Advance Your StarkNet Development
 
