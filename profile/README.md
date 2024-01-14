@@ -2,6 +2,8 @@
 
 **🛠️ Master Starknet with CerberusChaos: Code Dreams, Build Realities.** Discover more [here](https://cerberuschaos.org).
 
+**📚 Repo**:
+
 - [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - A seamless Starknet Dapp Template integrating Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 - [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - 'create-starknet' is your go-to tool for kickstarting a project with a basic template tailored for popular frameworks.
 
