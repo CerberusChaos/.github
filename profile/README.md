@@ -28,4 +28,5 @@ Become part of a movement that's shaping the future of StarkNet. Our resources a
 
 ## 📡 Connect with Us
 
+- Website: https://cerberuschaos.org/
 - Core Developer: [nlyrthiia](https://github.com/nlyrthiia)
