@@ -6,7 +6,7 @@
 
 - [Starknet-Dapp-Template](https://github.com/CerberusChaos/Starknet-Dapp-Template) - A seamless Starknet Dapp Template integrating Next.js 14+, Tailwind CSS 3, TypeScript, DaisyUI, and Starknet-React.
 - [create-starknet-dapp](https://github.com/CerberusChaos/create-starknet-dapp) - 'create-starknet' is your go-to tool for kickstarting a project with a basic template tailored for popular frameworks.
-- [starknet-lesson](https://github.com/CerberusChaos/starknet-lesson) - Learn, Collaborate, Innovate - Your Journey in Cairo Programming Starts Here at Starknet Lesson.
+- [starknet-lesson](https://www.starknet-lesson.com) - Learn, Collaborate, Innovate - Your Journey in Cairo Programming Starts Here at Starknet Lesson.
 
 ![CerberusChaos Labs](https://github.com/CerberusChaos/.github/blob/main/profile/asset/1191704883591_.png)
 
@@ -28,5 +28,5 @@ Become part of a movement that's shaping the future of StarkNet. Our resources a
 
 ## 📡 Connect with Us
 
-- Website: https://cerberuschaos.org/
+- Website: [https://cerberuschaos.org/](https://github.com/CerberusChaos)
 - Core Developer: [nlyrthiia](https://github.com/nlyrthiia)
